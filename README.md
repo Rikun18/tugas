@@ -13,6 +13,9 @@ Algoritma 1
 10. open the middle of right half of the katalog
 11. do step 2.
 13 else quit
+
+_____________________________
+
 Algoritma 2
 1. Open the phone website
 2.look at the page
