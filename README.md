@@ -1,4 +1,5 @@
 # tugas
+Mencari tipe handphone secara online
 Algoritma 1
 1. Open the phone catalogue
 2. open the middle of the catalogue
@@ -21,3 +22,5 @@ Algoritma 2
 6.  go to the next page
 7. look at the step 2
 8.  quit
+
+Ty 
